@@ -1,12 +1,26 @@
-# React + Vite
+# Weather-UI 🌤️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, reactive UI for displaying weather information — built with React + Vite.
 
-Currently, two official plugins are available:
+## 🚀 Introduction
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Weather-UI is a small, lightweight, and extensible frontend interface to fetch and display weather data dynamically. Ideal for embedding in websites, dashboards, or web apps that require real-time weather updates with a clean UI.
 
-## Expanding the ESLint configuration
+## 📦 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Fetch weather data from an API (e.g. OpenWeatherMap, Weather API, etc.)
+- Support for multiple metrics (temperature, humidity, wind speed, etc.)
+- Different themes / styles (light / dark / color schemes)
+- Responsive layout for mobile / desktop
+- Easy to customize or extend
+
+## 🛠️ Tech Stack
+
+- **React** (frontend framework)  
+- **Vite** (build tool / dev server)  
+- **ESLint** (linting)  
+- (Optional) CSS / SCSS / Styled Components / Tailwind (depending on implementation)  
+- (Optional) Testing framework (Jest / React Testing Library / etc.)
+
+
+
